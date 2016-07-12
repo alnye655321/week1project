@@ -33,7 +33,7 @@ header {
 
 .nav {
 	
-display: inline-block;
+	display: inline-block;
 }
 
 .nav a {
@@ -65,10 +65,10 @@ display: inline-block;
 }
 
 .verticalLine {
-		border-left: solid grey;
-		margin-right: 15px;
-		height: 300px;
-		float: left;
+	border-left: solid grey;
+	margin-right: 15px;
+	height: 300px;
+	float: left;
 }
 
 article {
